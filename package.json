@@ -1,0 +1,24 @@
+{
+  "name": "finishers",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "apollo-client": "^0.4.22",
+    "apollo-server": "^0.2.8",
+    "babel-runtime": "^6.18.0",
+    "bcoin": "^0.15.0",
+    "bcrypt": "^0.8.7",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "google-spreadsheet": "^2.0.3",
+    "google-spreadsheets": "^0.5.1",
+    "googleapis": "^12.4.0",
+    "graphql": "^0.7.2",
+    "graphql-server-express": "^0.4.3",
+    "graphql-subscriptions": "^0.2.1",
+    "graphql-tools": "^0.8.1",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
